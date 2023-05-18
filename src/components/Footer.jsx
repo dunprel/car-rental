@@ -34,7 +34,7 @@ function Footer() {
                   style={{ fontSize: '14px' }}
                   target='_blank'
                   rel='noreferrer'
-                  href='#'
+                  href='https://dunprel-portfolio.vercel.app/'
                 >
                   Developed by Dunprel
                 </a>
